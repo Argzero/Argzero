@@ -1,3 +1,4 @@
+<style>*{ align: center; }</style>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -15,7 +16,6 @@
 <!--<img src="https://komarev.com/ghpvc/?username=Argzero&style=flat-square&color=blue" alt="" align="center"/>-->
 
 ### Hi there 👋
-<div id="trophies" align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=Argzero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on Multiplatform Inter-communications systems architectures.
 - 🌱 I’m currently learning bluetooth and network interfacing for embedded systems.
@@ -25,4 +25,3 @@
 - 📫 How to reach me: forrest@argzero.org for business inquiries or shooster.forrest@medstudent.pitt.edu for academic collaboration.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I do not identify with the classical masculine identity and I am passionate about intersectionality of disabilities accommodations, research, and advocacy.
-</div>
