@@ -13,6 +13,9 @@
   </a>
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argzero&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Argzero)](https://github.com/anuraghazra/github-readme-stats)
 <!-- VIEW COUNT: <img src="https://komarev.com/ghpvc/?username=Argzero&style=flat-square&color=blue" alt="" align="center"/>-->
 
 ### Hi there 👋
@@ -76,7 +79,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" title="SourceTree" alt="SourceTree" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-plain-wordmark.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/discord/discord-plain-wordmark.svg" title="discord" alt="discord" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="socketio" alt="socketio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity3D" **alt="Unity3D" width="40" height="40"/>&nbsp;
 </div>
