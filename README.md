@@ -13,23 +13,6 @@
   </a>
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argzero&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Argzero)](https://github.com/anuraghazra/github-readme-stats)
-<!-- VIEW COUNT: <img src="https://komarev.com/ghpvc/?username=Argzero&style=flat-square&color=blue" alt="" align="center"/>-->
-
-### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=Argzero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-- 🔭 I’m currently working on Multiplatform Inter-communications systems architectures.
-- 🌱 I’m currently learning bluetooth and network interfacing for embedded systems.
-- 👯 I’m looking to collaborate on several open source projects, including game engine prosthetics simulations for ROS2, ROS, and LSL.
-- 🤔 I’m looking for help with non-GPL bluetooth development in pre-3.9 python.
-- 💬 Ask me about rehabilitation games and neurotechnology.
-- 📫 How to reach me: forrest@argzero.org for business inquiries or shooster.forrest@medstudent.pitt.edu for academic collaboration.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I do not identify with the classical masculine identity and I am passionate about intersectionality of disabilities accommodations, research, and advocacy.
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
@@ -83,3 +66,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="socketio" alt="socketio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity3D" **alt="Unity3D" width="40" height="40"/>&nbsp;
 </div>
+
+### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=Argzero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- 🔭 I’m currently working on Multiplatform Inter-communications systems architectures.
+- 🌱 I’m currently learning bluetooth and network interfacing for embedded systems.
+- 👯 I’m looking to collaborate on several open source projects, including game engine prosthetics simulations for ROS2, ROS, and LSL.
+- 🤔 I’m looking for help with non-GPL bluetooth development in pre-3.9 python.
+- 💬 Ask me about rehabilitation games and neurotechnology.
+- 📫 How to reach me: forrest@argzero.org for business inquiries or shooster.forrest@medstudent.pitt.edu for academic collaboration.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I do not identify with the classical masculine identity and I am passionate about intersectionality of disabilities accommodations, research, and advocacy.
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argzero&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Argzero)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=Argzero&style=flat-square&color=blue" alt="" align="center"/>
