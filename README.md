@@ -13,6 +13,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div align="center">
+  <img src="https://argzero.org/images/base.gif" width="600" height="300"/>
+</div>
 <!--<img src="https://komarev.com/ghpvc/?username=Argzero&style=flat-square&color=blue" alt="" align="center"/>-->
 
 ### Hi there 👋
