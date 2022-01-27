@@ -68,7 +68,7 @@
 </div>
 
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=Argzero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Argzero&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on Multiplatform Inter-communications systems architectures.
 - 🌱 I’m currently learning bluetooth and network interfacing for embedded systems.
 - 👯 I’m looking to collaborate on several open source projects, including game engine prosthetics simulations for ROS2, ROS, and LSL.
