@@ -75,7 +75,7 @@
 - 💬 Ask me about rehabilitation games and neurotechnology.
 - 📫 How to reach me: forrest@argzero.org for business inquiries or shooster.forrest@medstudent.pitt.edu for academic collaboration.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I do not identify with the classical masculine identity and I am passionate about intersectionality of disabilities accommodations, research, and advocacy.
+- ⚡ Fun fact: I do not identify with the classical masculine identity (identiy: demimale) and I am passionate about intersectionality of disabilities accommodations, research, and advocacy.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argzero&theme=dark&background=000000)](https://git.io/streak-stats)
