@@ -74,8 +74,8 @@
 - 🤔 I’m looking for help with non-GPL bluetooth development in pre-3.9 python.
 - 💬 Ask me about rehabilitation games and neurotechnology.
 - 📫 How to reach me: forrest@argzero.org for business inquiries or shooster.forrest@medstudent.pitt.edu for academic collaboration.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I do not identify with the classical masculine identity (identiy: demimale) and I am passionate about intersectionality of disabilities accommodations, research, and advocacy with all facets of inequities and the roles we all can play in fixing the inequities in our society.
+- 😄 Pronouns: he/they (demi)
+- ⚡ Fun fact: I am passionate about intersectionality of disabilities accommodations, research, and advocacy with all facets of inequities and the roles we all can play in fixing the inequities in our society.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argzero&theme=dark&background=000000)](https://git.io/streak-stats)
